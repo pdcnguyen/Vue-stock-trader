@@ -1,0 +1,7 @@
+node_modules
+.firebase
+dist
+env.js
+.firebaserc
+firebase.json
+database.rules.json

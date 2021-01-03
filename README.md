@@ -1,3 +1,7 @@
+A project of my Udemy course ( you can buy trade stocks and save&load your progress (save in firebase) )
+Visit project: https://vue-stock-trader-64a94.web.app/
+
+
 # vue-cli
 
 > A Vue.js project
